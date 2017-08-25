@@ -7,8 +7,8 @@ animals.forEach((animal) => {
     // ผลลัพธ์จะได้ "Ant" "Bat" "Cat" "Dog"
 
 
-const animals = ['Ant', 'Bat', 'Cat', 'Dog']
-for (let i = 0; i < animals.length; i++) {
-    console.log(animals[i])
-}
-// ผลลัพธ์ได้ดังนี้ "Ant" "Bat" "Cat" "Dog"
+// const animals = ['Ant', 'Bat', 'Cat', 'Dog']
+// for (let i = 0; i < animals.length; i++) {
+//     console.log(animals[i])
+// }
+// // ผลลัพธ์ได้ดังนี้ "Ant" "Bat" "Cat" "Dog"
